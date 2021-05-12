@@ -9,3 +9,7 @@ Synchronized Data Acquisition System using FRDM-KL25z and MSP432 microcontroller
 -	Command processor over UART on both microcontroller for user interface
 -	Synchronized Data Acquisition System
 
+
+
+Project Videos and Pictures 
+https://drive.google.com/drive/u/1/folders/1QkZ9EgSI5AXfpYLnXHFRx2IPArAJEWRq
