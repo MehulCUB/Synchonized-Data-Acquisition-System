@@ -1,4 +1,4 @@
-# Synchonized-Data-Acquisition-Sytem
+# Synchonized-Data-Acquisition-System
 
 
 Synchronized Data Acquisition System using FRDM-KL25z and MSP432 microcontrollers
