@@ -22,14 +22,14 @@
 /*---------------------------------------------------------------------------------------------------------------------------------------
  * I have used and modified  bme280 sensor file for project requirement
  *
- * Environmental sensor with pressure, ambient temperature and humidity
+ * BME280 - Environmental sensor with pressure, ambient temperature and humidity
  * I have used modified version BME280 sensor support files, as it required to have compensatated values for accurate readings
  *
  * I verified  temperature, ambient pressure and humidity readings as follow
  *
  * temperature used hot water, ice bag - ice cubes near by
  * for humidity blowed humid air from mouth
- * we verify pressure value with Your smart phone weather app
+ * we can verify pressure value with Your smart phone weather app
  * ---------------------------------------------------------------------------------------------------------------------------------------
  */
 
